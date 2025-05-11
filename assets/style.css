@@ -1,0 +1,22 @@
+/* Example: Make the LHS panel scrollable if content overflows */
+.lhs-panel {
+    height: 90vh; /* Adjust as needed */
+    overflow-y: auto;
+    padding: 15px;
+}
+
+.rhs-data-preview {
+    height: 40vh; /* Adjust as needed */
+    overflow: auto;
+    padding: 10px;
+}
+
+.plot-preview-area {
+    height: 48vh; /* Adjust as needed */
+    padding: 10px;
+}
+
+/* Ensure DataTable headers are visible */
+.dash-spreadsheet-container .dash-fixed-header {
+    padding-right: 17px; /* Adjust if scrollbar width is different */
+}

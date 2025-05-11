@@ -1,0 +1,17 @@
+pandas
+numpy
+PySide6
+pyarrow
+chardet
+openpyxl
+pyxlsb
+xlrd
+python-calamine
+xlsx2csv
+dash>=2.0.0
+dash-bootstrap-components>=1.0.0
+flask-caching
+plotly>=5.0.0
+dash
+flask
+

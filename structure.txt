@@ -1,0 +1,9 @@
+plotly_studio/
+├── app.py                 # Main Dash application, layout, and callbacks
+├── file_handler.py        # Adapted logic for reading and parsing CSV files
+├── stats_generator.py     # Logic for generating column statistics
+├── plot_utils.py          # Utilities for plot generation and time estimation
+├── pandas_transformer.py  # Logic for applying pandas transformations
+├── assets/                # Folder for custom CSS (optional)
+│   └── style.css
+└── requirements.txt       # Python dependencies
